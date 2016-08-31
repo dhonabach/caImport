@@ -1,7 +1,6 @@
-# caImport - Parses and prepares Dynon Skyview User Logs so you can easily upload to CloudAhoy
-# caImport - Designed using Python 3.x Program 
+# caImport - Converts Dynon's Skyview log files into single flight segments/files for easy CloudAhoy imports.
 
-Parses and prepares Dynon Skyview User Logs so you can easily upload to CloudAhoy
+How-To:
 
 - Export datalog files from your Dynon Skyview to a USB thumbdrive
 - Ensure you have an IN and OUT folder within your caImport program folder (i.e. \caImport\IN, c:\caImport\OUT)
